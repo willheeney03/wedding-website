@@ -1,6 +1,6 @@
 import { motion, useReducedMotion } from "motion/react";
-import trayImg from "./assets/photobooth-tray.png";
-import stripImg from "./assets/photostrip_black_white.jpg";
+import trayImg from "../../assets/photobooth-tray.png";
+import stripImg from "../../assets/photostrip_black_white.jpg";
 
 /**
  * Photobooth dispenser that drops a photostrip into the tray when the page loads.
